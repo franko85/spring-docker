@@ -1,9 +1,9 @@
 # Template project for Spring Boot and Docker
 
-## only_dockerfile branch
+## only_dockerfile tag
 
-As the branch name says, on the only_dockerfile branch we use only the Dockerfile to run the app in a container.
+As the tag name says, on the only_dockerfile tag we use only the Dockerfile to run the app in a container.
 
-## docker_compose branch
+## docker_compose tag
 
-In the docker_compose branch we use a docker-compose file to run the app in a container.
+In the docker_compose tag we use a docker-compose file to run the app in a container.
