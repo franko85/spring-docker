@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  spring-docker-1:
+    image: spring-docker
+    ports:
+      - "8080:8080"
+  spring-docker-2:
+    image: spring-docker
+    ports:
+      - "8081:8080"
